@@ -8,7 +8,7 @@ function App() {
       <div>
     <div className="App">
       <h1>Olá mundo, idade = {idade}</h1>
-      <h1>ola</h1>
+      <h1>Hello World</h1>
     </div>
     <div>DIV 2
 
